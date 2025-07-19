@@ -38,9 +38,13 @@ Canvas.js Converter is a React-based tool that converts various file formats (PN
 Clone the repository or copy the component into your React project:
 
 ```bash
-npm install react-pdf
+git clone
+cd canvas-converter
 
+npm intall
 npm run dev
+
+
 
 
 
